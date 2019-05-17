@@ -1,0 +1,7 @@
+n = input('Digite algo: ')
+print('o tipo desse valor é=',type(n))
+a = n.isnumeric()
+b = n.isalpha()
+c = n.isalnum()
+d = n.isupper()
+print('é numero={},é letra={},é alfanumerico={},é maisculo={}'.format(a, b, c, d))

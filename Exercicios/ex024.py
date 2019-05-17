@@ -1,0 +1,5 @@
+nome = str(input('digite o nome da sua cidade: ')).strip()
+print(nome[:5].upper()== 'SANTO')
+#converte = nome.lower()
+#print('O nome da sua cidade começa com santo?')
+#print('santo' in converte)
