@@ -1,1 +1,2 @@
-Repositorio de exercicios Python
+# Repositorio de Exercicios 
+Lista de exercicios Python
