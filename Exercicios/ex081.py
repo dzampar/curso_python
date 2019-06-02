@@ -11,6 +11,6 @@ print("Você digitou {} Valores".format(len(lista)))
 lista.sort(reverse=True)
 print(f"Sua lista na ordem decrescente ficou assim {lista}")
 if 5 in lista:
-    print("O valor 5 está na sua lista")
+    print(f"O valor 5 está na sua lista")
 else:
     print("O valor 5 não está na sua lista")
